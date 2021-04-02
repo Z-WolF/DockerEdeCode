@@ -2,7 +2,7 @@
 import logging
 logger = logging.getLogger('root')
 
-#MAP
+#MAP2222
 
 #import argparse #Librería usada en funcion main() para crear el menú de la consola
 import importlib.util #utilizada en función module_from_file para cargar las librerías del estándar
