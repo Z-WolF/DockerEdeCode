@@ -2,6 +2,8 @@
 import logging
 logger = logging.getLogger('root')
 
+#MAP
+
 #import argparse #Librería usada en funcion main() para crear el menú de la consola
 import importlib.util #utilizada en función module_from_file para cargar las librerías del estándar
 from zipfile import ZipFile
